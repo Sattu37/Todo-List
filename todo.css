@@ -1,0 +1,33 @@
+div{
+    margin: auto;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    width: 400px;
+    background-color: aqua;
+
+}
+
+li{
+    text-align: left;
+    font-size: 20px;
+}
+
+input{
+    height: 20px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#inputBtn{
+    font-weight: bold;
+    color: grey;
+    background-color: white;
+}
+
+ul button{
+    color: grey;
+    background-color: white;
+}
